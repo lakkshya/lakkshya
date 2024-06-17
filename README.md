@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakkshya
 - 👀 I’m interested in Programming and Designing.
-- 🌱 I’m currently learning Graphic Designing.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on some projects.
 
 <!---
