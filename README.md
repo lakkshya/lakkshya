@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I’m interested in Programming and Development<br>- I'm currently working on App Development<br>- I’m currently learning Flutter and Dart<br>- I’m looking to collaborate on some projects.
+- I’m interested in Programming and Development<br>- I'm currently working on Web Development<br>- I’m currently learning ReactJS<br>- I’m looking to collaborate on some projects.
 
 
 ## 🌐 Socials:
